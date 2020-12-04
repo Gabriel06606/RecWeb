@@ -1,0 +1,24 @@
+td, th {
+    border: 1px solid #dddddd;
+    border-color: rgb(7, 7, 199);
+    text-align: left;
+    padding: 8px;
+    width: 70%;
+    border-radius: 5px;
+  }
+
+.background {
+    background-color: rgb(8, 8, 208);
+}
+
+.white {
+    color: white;
+}
+
+.espacamento {
+    padding: 5px;
+}
+
+.redondo {
+    border-radius: 5px;
+}
